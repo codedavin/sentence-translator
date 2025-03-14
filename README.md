@@ -3,4 +3,5 @@
 This project uses Google's Gemini 1.5 Pro model via LangChain to translate sentences into different languages.
 
 ## Setup
-Just clone the repository to use it.
+Just clone the repository to use it via this url:
+https://github.com/codedavin/sentence-translator
